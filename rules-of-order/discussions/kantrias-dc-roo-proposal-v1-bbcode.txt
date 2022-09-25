@@ -1,0 +1,104 @@
+[div]My first draft of the proposal. (The top post will update with the current version.)[/div]
+
+[spoiler=First draft][quote][div align="center"][font face="georgia" size="4"]Proposal for the[/font][b]
+
+[font size="5" face="georgia"]Rules of Order[/font]
+
+[/b][font size="3" face="georgia"]of the Delphinium Council[/font]
+[font size="3" face="georgia"]of the Alliance of Kantrias[/font][/div][div align="center"]&nbsp;[/div][div align="center"]
+[/div][font size="3" face="georgia"][b]Section 1 - Interfaces[/b]
+
+[b]1.[/b] In the Forum there must be a board titled "Delphinium Council".
+[b]2.[/b] The Speaker will have moderation rights for the "Delphinium Council" board.
+[b]3.[/b] The "Delphinium Council" board must have the following sub-boards:
+    [span]&nbsp;&nbsp;&nbsp;&nbsp; [/span][b]a.[/b] "Potential Proposals",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]b.[/b] "The Desk of the Speaker",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]c.[/b] "Council Chamber",
+&nbsp;&nbsp;&nbsp;&nbsp; [b]   d.[/b] "Law Library".
+[b]4.[/b] The "Law Library" board must contain the following sub-boards:
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]a.[/b] "Act Repository",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]b.[/b] "Resolution Repository",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]c.[/b] "Treaty Hall",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]d.[/b] "Executive Orders",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]e.[/b] "The Hall of the Repealed".
+[b]5.[/b] In the Discord server of Kantrias there must be a section named "Delphinium Council".
+[b]6.[/b] The Speaker will have moderation rights for the "Delphinium Council" section.
+[b]7.[/b] The "Delphinium Council" section must have the following channels:
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]a.[/b] a text channel titled "Cloakroom",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]b.[/b] a text channel titled "Committee of the Whole",
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]c.[/b] a voice channel titled "Cafeteria".
+[b]8.[/b] The language used on all interfaces must be English.
+
+[b]Section 2 - Cloakroom and Cafeteria[/b]
+
+[b]1.[/b] The "Cloakroom" text channel and the "Cafeteria" voice channel will be there for informal discussions about the topic of legistlation.
+[b]2.[/b] The Speaker should only moderate these channels if needed to keep the discussion civilized.
+
+[b]Section 3 - Potential Proposals[/b]
+
+[b]1.[/b] If a Councillor wants to propose legistlation they are encouraged to create a thread in Potiential Proposals.
+[b]2.[/b] New proposals may consist of only an idea or may already contain the first draft of the proposed legistlation.
+[b]3.[/b] Councillors are encouraged to help develop the ideas in this sub-board into a legistlative text that reflects the intent of the creator of the thread.
+[b]4.[/b] Potential Proposals is not a place for substantive discussion, only for aiding Councillors in creating well-formed proposals.
+[b]5.[/b] Once the Proposal text has been formed to the satisfaction of the creator of the thread and in adherence to the formatting rules, they may submit the Proposal to the Desk of the Speaker.
+
+[b]Section 4 - The Desk of the Speaker[/b]
+
+[b]1.[/b] Councillors may submit proposals that adhere to the formatting rules to the Desk of the Speaker by creating a new thread in this sub-board.
+[b]2.[/b] The Speaker will check proposals for formatting errors and asks the submitting Councillor for correction if an error is found. The corrected Proposal must be submitted in the same thread.
+[b]3.[/b] Proposals submitted to the Desk of the Speaker must be seconded by a Councillor different from the submitter before they can be assigned an identification number. The Speaker may not second Proposals.
+[b]4.[/b] If the Speaker finds a proposal in order, they assign an identification number according to the following scheme: "D.C.P. Year/Number", where "D.C.P. stands for "Delphinium Council Proposal" and the current year must be substituted for "Year", and a sequential number within the year must be substituted for "Number".
+[b]5.[/b] The Speaker will move Proposals to the Council chamber in the order that they were assigned identification numbers.
+[b]6.[/b] Amendment Proposals for Proposals in the Council Chamber must be submitted the same way as proposals when applicable.
+[b]7.[/b] Amendment Proposals will be assigned identification numbers according to an extended scheme of their corresponding Proposal: "D.C.P. Year/Number/A-Number2", where "Number2" must be substituted for a sequential number among amendments to the same Proposal.
+
+[b]Section 5 - Council Chamber (Proposals)[/b]
+
+[b]1.[/b] The Speaker will move Proposals from the Desk of the Speaker into the Council Chamber by creating a new thread in this sub-board containing the identification number, the text, the name of the submitting Councillors of the Proposal, and a poll on the adoption of the Proposal (as amended, if applicable) with the answer options "Yea", "Nay", and "N/A" (indicating Not Voting or Absent").
+[b]2.[/b] Councillors may not post in Council Chamber threads.
+[b]3.[/b] Once a Proposal has been moved into the Council Chamber, it is automatically referred to the Committee of the Whole.
+
+[b]Section 6 - Committee of the Whole[/b]
+
+[b]1.[/b] The Speaker will post the current Proposal in the Council Chamber to the Committee of the Whole for easy reference.
+[b]2.[/b] Councillors may discuss the Proposal freely in the Committee of the Whole.
+[b]3.[/b] The Speaker should only moderate the Committee of the Whole if needed to keep the discussion civilized and to ensure that all Councillors can express their opinions.
+[b]4.[/b] Once the Proposal has been developed to the satisfaction of the Commitee of the Whole it will rise so that a vote can be held on the Proposal.
+[b]5.[/b] When the Committee of the Whole has risen, Councillors must not post to the Committee of the Whole until the Speaker posts the next Proposal.
+[b]6.[/b] If the Committee of the Whole can not agree on the final version of a Proposal to be voted on, each Councillor may submit one Amendment with all proposed changes to the Desk of the Speaker. Amendment Proposals must reference the identification number of the original Proposal.
+
+[b]Section 7 - Council Chamber (Votes)[/b]
+
+[b]1.[/b] Once the Committee of the Whole rose, the Speaker will organize the vote on the Proposal.
+[b]2.[/b] If no Proposal Amendments were submitted, the Speaker starts the vote on the adoption of the Proposal.
+[b]3.[/b] If any Proposal Amendments have been submitted, they must first be voted on in separate threads.
+[b]4.[/b] Threads for votes on Proposal Amendments will contain the text of the Proposal (as previously amended, if applicable), its identification number, and the names of the submitting Councillors.
+[b]5.[/b] If all Proposal Amendments have been voted on, the Proposal will be voted on as amended.
+[b]6.[/b] Voting will start at the time the Speaker indicates this with a post.
+[b]7.[/b] Voting will be closed after forty eight hours have elapsed from its start, or as soon as possible thereafter. This closing may be done by the Speaker of the Administrators.
+
+[b]Section 8 - Law Library[/b]
+
+[b]1.[/b] The Law Library is managed by the Speaker and the Administrators. Other Councillors may not post or create threads in it.
+[b]2.[/b] If a Proposal is passed, it takes on the name it specified in accordance with the formatting rules and its text is added in a new thread to the appropriate sub-boards of the Law Library with all relevant identification numbers, names, and dates.
+[b]3.[/b] Bills passed will be issued a new identification number by the Speaker according to the following scheme: "D.C. Year/Number", where "D.C. stands for "Delphinium Council" and the current year must be substituted for "Year", and a sequential number within the year must be substituted for "Number".
+[b]4.[/b] Resolutions passed will be issued a new identification number by the Speaker according to the following scheme: "D.C.Res. Year/Number (Effect)", where "D.C.Res. stands for "Delphinium Council Resolution" and the current year must be substituted for "Year", and a sequential number within the year must be substituted for "Number".
+[b]5.[/b] If a resolution is passed, its type (binding or non-binding) will be added to the end of its name in parentheses.
+[b]6.[/b] If previously passed legistlation is repealed, its thread must be moved to "The Hall of the Repealed" sub-board and the details and date of the repealing legistlation added.
+
+Section 9 - Formatting Rules
+
+[b]1.[/b] Proposals must contain the following elements:
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]a.[/b] whether the proposal is for a bill or a resolution,
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]b.[/b] if for a bill, the name of the Act it may be referred to as, if passed,
+&nbsp;&nbsp;&nbsp;&nbsp;    [b]c.[/b] if for a resolution, whether it should be binding or non-binding.
+[b]2.[/b] Bills must specify a name for the Act they should be referred to as, if passed.
+[b]3.[/b] Resolutions may specify a short purpose clause to be added after its identification number for easy reference, if passed.
+[b]4.[/b] All Councillors must aim to formulate all legistlation in clear and precise language.
+[b]5.[/b] Councillors are encouraged to consult the drafting aid of the U.S. Federal Register at the following link: https://www.archives.gov/federal-register/write/legal-docs .
+[b]6.[/b] Bills and resolutions must be structured into clauses marked by an ordinal number with Arabic numerals. Clauses may have sub-clauses marked by a small latin letter with a period after it.
+[b]7.[/b] Clauses may be structured into sections marked by the word "Section" and a cardinal number with Arabic numerals.
+[b]8.[/b] Sections in bills may be structures into chapters marked by the word "Chapter" and a cardinal number with Roman numerals.
+[b]9.[/b] Sections and chapters headings may include a title after their number, separated by a dash.
+[/font][/quote]
+[/spoiler]

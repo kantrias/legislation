@@ -1,0 +1,164 @@
+[div]The previous post was getting long and far away, so I moved to a clean version here.[/div]
+[div][ul type="disc"][li]Changed the special election minimum announcement to 3 days.[/li][li]Removed the specific consent requirement for Ambassadors.
+[/li][/ul][/div]
+
+[quote][div align="center"][font size="4"][b]Constitution for the Alliance of Kantrias[/b][/font]
+[/div][font size="3"]
+[/font][div align="center"][font size="3"][b]Article 1 - General[/b][/font]
+[/div]
+[b]Section 1 - Basic terms[/b]
+
+[b]1.[/b] The Region of Kantrias ("Region") is the NationStates region at the https://www.nationstates.net/region=kantrias web address.
+[b]2.[/b] The Residents of Kantrias ("Residents") are the NationStates nations located in the Region.
+[b]3.[/b] The Forum of the Region ("Forum") is located at the https://kantrias.freeforums.net/ web address.
+
+[b]Section 2 - Name[/b]
+
+[b]1.[/b] The official name of the Region is Alliance of Kantrias.
+[b]2.[/b] The name "Kantrias" refers to the Alliance of Kantrias.
+
+[b]Section 3 - Administrators[/b]
+
+[b]1.[/b] The Administrative Team of the Region ("Administrators") is beyond the scope of this Constitution and is governed by its own internal rules.
+[b]2.[/b] The Administrators manage the Forum and other services used by the Region.
+
+[div align="center"][font size="3"][b]Article 2 - Councillors[/b][/font]
+[/div][b]
+Section 1 - Requirements[/b]
+
+[b]1.[/b] Residents may create an account on the Forum.
+[b]2.[/b] Residents with an account on the Forum may apply for Councillor status.
+[b]3.[/b] Administrators will grant Councillor status to Residents.
+[b]4.[/b] Administrators will deny Councillor status if they can not determine the identity of the Forum account, if a Resident has been banned from holding Councillor status, or in the case of other due cause defined by law.
+
+[b]Section 2 - Rights[/b]
+
+[b]1.[/b] Residents with Councillor status ("Councillors") are members of the Delphinium Council.
+[b]2.[/b] Councillors should vote in elections.
+[b]3.[/b] Councillors may be candidates in elections and hold elected offices.
+[b]4.[/b] A bill passed by the Delphinium Council may specify elected offices which a Councillor must not hold at the same time.
+
+[b]Section 3 - Removal[/b]
+
+[b]1.[/b] If the owner of a Forum account is no longer a Resident, the Administrators must revoke their Councillor status.
+[b]2.[/b] If Administrators deem a Councillor a risk to the community, they may revoke their Councillor status. This event must be reported to the Delphinium Council.
+
+[b]Section 4 - Multiple accounts[/b]
+
+[b]1.[/b] A person managing more than one Resident may create a Forum account for all of them.
+[b]2.[/b] Only one of the Residents managed by the same person may hold Councillor status.
+
+[div align="center"][font size="3"][b]Article 3 - Legistlative[/b][/font]
+[/div]
+[b]Section 1 - Power[/b]
+
+All legistlative power in the Alliance of Kantrias is held by the Delphinium Council.
+
+[b]Section 2 - Acts[/b]
+
+[b]1.[/b] The Delphinium Council may draft, debate, and vote on bills and resolutions.
+[b]2.[/b] Unless otherwise specified, bills and resolutions require the support of more than half of the votes cast to pass.
+[b]3.[/b] Bills passed by the Delphinium Council become law.
+[b]4.[/b] A resolution passed by the Delphinium Council must either be a binding resolution or a non-binding resolution.
+[b]5.[/b] Binding resolutions have the power of law. Non-binding resolutions do not have the power of law but express a statement by the Delphinium Council.
+[b]6.[/b] Only the Delphinium Council may declare war. A declaration of war must be a binding resolution passed with the support of two thirds of the votes cast.
+
+[b]Section 3 - Rules[/b]
+
+[b]1.[/b] The Delphinium Council will create its own Rules of Order.
+[b]2.[/b] The Rules of Order require the support of two thirds of the votes cast to pass.
+[b]3.[/b] Votes in the Delphinium Council must last for at least forty eight hours.
+
+[b]Section 4 - Speaker[/b]
+
+[b]1.[/b] The Delphinium Council will elect a Councillor as its Speaker every sixty days.
+[b]2.[/b] The Speaker will moderate debate in the Delphinium Council and enforce its Rules of Order.
+
+[div align="center"][font size="3"][b]Article 4 - Executive[/b][/font]
+[/div]
+[b]Section 1 - Power[/b]
+
+[b]1.[/b] The executive power in the Alliance of Kantrias is held by the Supreme Chancellor.
+[b]2.[/b] The Supreme Chancellor is the head of the government of the Alliance of Kantrias.
+[b]3.[/b] The Supreme Chancellor is Commander in Chief of the armed forces of the Alliance of Kantrias.
+
+[b]Section 2 - Supreme Chancellor[/b]
+
+[b]1.[/b] The Delphinium Council will elect a Councillor as Supreme Chancellor every hundred and twenty days.
+[b]2.[/b] The Supreme Chancellor may within the bounds of existing law set government policy on internal and foreign affairs.
+
+[b]Section 3 - Ministers[/b]
+
+[b]1.[/b] The Delphinium Council will elect three Councillors as Ministers every sixty days.
+[b]2.[/b] Unless otherwise specified by law, the duties of Ministers should be determined and delegated by the Supreme Chancellor.
+
+[b]Section 4 - Foreign Affairs[/b]
+
+[b]1.[/b] The Supreme Chancellor is the main representative of the Alliance of Kantrias.
+[b]2.[/b] The Supreme Chancellor may appoint Ambassadors to act as representatives of the Alliance of Kantrias.
+[b]3.[/b] The Supreme Chancellor may with the consent of the Delphinium Council make treaties.
+[b]4.[/b] The Delphinium Council may give its consent to a treaty by ratifying it in a binding resolution passed with the support of two thirds of the votes cast.
+[b]5.[/b] Treaties ratified by the Delphinium Council have the power of law. If a treaty is not ratified, it is considered null and void.
+
+[b]Section 5 - Executive orders[/b]
+
+[b]1.[/b] The Supreme Chancellor may issue executive orders.
+[b]2.[/b] Executive orders must not contradict exising law, but may change or revoke existing executive orders.
+[b]3.[/b] Executive orders have the power of law.
+[b]4.[/b] Laws created by the Delphinium Council will invalidate all parts of executive orders that contradict them.
+
+[b]Section 6 - Other positions[/b]
+
+The Supreme Chancellor may by executive order create government positions to assist them or the Ministers in their duties, and appoint Councillors to or dismiss them from these positions.
+
+
+[div align="center"][font size="3"][b]Article 5 - Elections[/b][/font]
+[/div]
+[b]Section 1 - Procedure[/b]
+
+[b]1.[/b] Elections will be carried out by the Admninistrators.
+[b]2.[/b] Elections must be announced at least six days before the start of voting.
+[b]3.[/b] Councillors may announce their candidacy in an election after it has been announced.
+[b]4.[/b] Voting in elections must last for at least forty eight hours.
+[b]5.[/b] The duration of voting in elections may be changed to a period longer than forty eight hours in a bill passed by the Delphinium Council. Such change must not be applied to elections already announced.
+
+[b]Section 2 - Results[/b]
+
+[b]1.[/b] The candidate who received the most votes is elected.
+[b]2.[/b] In case of a tie of candidates who have received the most votes, a second round of voting will be held with only these candidates.
+[b]3.[/b] If the second round of voting also results in a tie, the vote of the Speaker of the Delphinium Council will break the tie in elections for Supreme Chancellor, and vote of the Supreme Chancellor will break the tie in all other elections.
+
+[b]Section 3 - Resignation[/b]
+
+[b]1.[/b] If an elected official resigns, and there are more than fourteen days until the next regular election, a special election must be announced.
+[b]2.[/b] Special elections will be carried out in the same way as regular elections.
+[b]3.[/b] The Delphinium Council may by law specify that voting in a special election will start earlier than in a regular election, but at least three days after the election has been announced. Such change must not be applied to elections already announced.
+[b]4.[/b] Candidates elected to in a special election will serve until the next regular election, where they may also announce their candidacy.
+[b]5.[/b] If any elected or appointed official loses Councillor status, they are immediately considered resigned from their office. The Delphinium Council should acknowledge such an event in a non-binding resolution.
+
+[b]Section 4 - Removal[/b]
+
+[b]1.[/b] The Delphinium Council may in a binding resolution passed with the support of two thirds of the votes cast remove any elected or appointed official from office with immediate effect.
+[b]2.[/b] A resolution to remove an official from office may contain a ban of the official from holding specified elected offices or any elected office for a period up to four months.
+[b]3.[/b] The process of replacing removed officials is the same as replacing resigned officials.
+
+
+[div align="center"][font size="3"][b]Article 6 - Closing[/b][/font]
+[/div]
+[b]Section 1 - Supremacy[/b]
+
+[b]1.[/b] This Constitution, and  all laws, binding resolutions, treaties, and executive orders made in accordance with it, are the supreme law of the Alliance of Kantrias and all Councillors must abide by them.
+[b]2.[/b] Any law, resolution, treaty, or executive order in contradiction with this Constitution is considered null and void.
+
+[b]Section 2 - Modification[/b]
+
+[b]1.[/b] The Delphinium Council may by law modify this Constitution.
+[b]2.[/b] To modify this Constitution, a bill with this sole purpose must be introduced.
+[b]3.[/b] A bill to modify this Constitution must not be voted on earlier than a week after it has been introduced.
+[b]4.[/b] A bill to modify this Constitution must pass with the support of two thirds of the votes cast to become law.
+
+[b]Section 3 - Adoption[/b]
+
+A vote on the adoption of this Constitution by the Residents with more than half of votes cast in favor of adoption establishes this Constitution for the Alliance of Kantrias.
+[/quote]
+

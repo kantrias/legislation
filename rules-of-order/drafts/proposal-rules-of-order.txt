@@ -1,0 +1,101 @@
+Proposal for the
+
+Rules of Order
+
+of the Delphinium Council
+of the Alliance of Kantrias
+
+Section 1 - Interfaces
+
+1. In the Forum there must be a board titled "Delphinium Council".
+2. The Speaker will have moderation rights for the "Delphinium Council" board.
+3. The "Delphinium Council" board must have the following sub-boards:
+    a. "Potential Proposals",
+    b. "The Desk of the Speaker",
+    c. "Council Chamber",
+    d. "Law Library".
+4. The "Law Library" board must contain the following sub-boards:
+    a. "Act Repository",
+    b. "Resolution Repository",
+    c. "Treaty Hall",
+    d. "Executive Orders",
+    e. "The Hall of the Repealed".
+5. In the Discord server of Kantrias there must be a section named "Delphinium Council".
+6. The Speaker will have moderation rights for the "Delphinium Council" section.
+7. The "Delphinium Council" section must have the following channels:
+    a. a text channel titled "Cloakroom",
+    b. a text channel titled "Committee of the Whole",
+    c. a voice channel titled "Cafeteria".
+8. The language used on all interfaces must be English.
+
+Section 2 - Cloakroom and Cafeteria
+
+1. The "Cloakroom" text channel and the "Cafeteria" voice channel will be there for informal discussions about the topic of legistlation.
+2. The Speaker should only moderate these channels if needed to keep the discussion civilized.
+
+Section 3 - Potential Proposals
+
+1. If a Councillor wants to propose legistlation they are encouraged to create a thread in Potiential Proposals.
+2. New proposals may consist of only an idea or may already contain the first draft of the proposed legistlation.
+3. Councillors are encouraged to help develop the ideas in this sub-board into a legistlative text that reflects the intent of the creator of the thread.
+4. Potential Proposals is not a place for substantive discussion, only for aiding Councillors in creating well-formed proposals.
+5. Once the Proposal text has been formed to the satisfaction of the creator of the thread and in adherence to the formatting rules, they may submit the Proposal to the Desk of the Speaker.
+
+Section 4 - The Desk of the Speaker
+
+1. Councillors may submit proposals that adhere to the formatting rules to the Desk of the Speaker by creating a new thread in this sub-board.
+2. The Speaker will check proposals for formatting errors and asks the submitting Councillor for correction if an error is found. The corrected Proposal must be submitted in the same thread.
+3. Proposals submitted to the Desk of the Speaker must be seconded by a Councillor different from the submitter before they can be assigned an identification number. The Speaker may not second Proposals.
+4. If the Speaker finds a proposal in order, they assign an identification number according to the following scheme: "D.C.P. Year/Number", where "D.C.P. stands for "Delphinium Council Proposal" and the current year must be substituted for "Year", and a sequential number within the year must be substituted for "Number".
+5. The Speaker will move Proposals to the Council chamber in the order that they were assigned identification numbers.
+6. Amendment Proposals for Proposals in the Council Chamber must be submitted the same way as proposals when applicable.
+7. Amendment Proposals will be assigned identification numbers according to an extended scheme of their corresponding Proposal: "D.C.P. Year/Number/A-Number2", where "Number2" must be substituted for a sequential number among amendments to the same Proposal.
+
+Section 5 - Council Chamber (Proposals)
+
+1. The Speaker will move Proposals from the Desk of the Speaker into the Council Chamber by creating a new thread in this sub-board containing the identification number, the text, the name of the submitting Councillors of the Proposal, and a poll on the adoption of the Proposal (as amended, if applicable) with the answer options "Yea", "Nay", and "N/A" (indicating Not Voting or Absent").
+2. Councillors may not post in Council Chamber threads.
+3. Once a Proposal has been moved into the Council Chamber, it is automatically referred to the Committee of the Whole.
+
+Section 6 - Committee of the Whole
+
+1. The Speaker will post the current Proposal in the Council Chamber to the Committee of the Whole for easy reference.
+2. Councillors may discuss the Proposal freely in the Committee of the Whole.
+3. The Speaker should only moderate the Committee of the Whole if needed to keep the discussion civilized and to ensure that all Councillors can express their opinions.
+4. Once the Proposal has been developed to the satisfaction of the Commitee of the Whole it will rise so that a vote can be held on the Proposal.
+5. When the Committee of the Whole has risen, Councillors must not post to the Committee of the Whole until the Speaker posts the next Proposal.
+6. If the Committee of the Whole can not agree on the final version of a Proposal to be voted on, each Councillor may submit one Amendment with all proposed changes to the Desk of the Speaker. Amendment Proposals must reference the identification number of the original Proposal.
+
+Section 7 - Council Chamber (Votes)
+
+1. Once the Committee of the Whole rose, the Speaker will organize the vote on the Proposal.
+2. If no Proposal Amendments were submitted, the Speaker starts the vote on the adoption of the Proposal.
+3. If any Proposal Amendments have been submitted, they must first be voted on in separate threads.
+4. Threads for votes on Proposal Amendments will contain the text of the Proposal (as previously amended, if applicable), its identification number, and the names of the submitting Councillors.
+5. If all Proposal Amendments have been voted on, the Proposal will be voted on as amended.
+6. Voting will start at the time the Speaker indicates this with a post.
+7. Voting will be closed after forty eight hours have elapsed from its start, or as soon as possible thereafter. This closing may be done by the Speaker of the Administrators.
+
+Section 8 - Law Library
+
+1. The Law Library is managed by the Speaker and the Administrators. Other Councillors may not post or create threads in it.
+2. If a Proposal is passed, it takes on the name it specified in accordance with the formatting rules and its text is added in a new thread to the appropriate sub-boards of the Law Library with all relevant identification numbers, names, and dates.
+3. Bills passed will be issued a new identification number by the Speaker according to the following scheme: "D.C. Year/Number", where "D.C. stands for "Delphinium Council" and the current year must be substituted for "Year", and a sequential number within the year must be substituted for "Number".
+4. Resolutions passed will be issued a new identification number by the Speaker according to the following scheme: "D.C.Res. Year/Number (Effect)", where "D.C.Res. stands for "Delphinium Council Resolution" and the current year must be substituted for "Year", and a sequential number within the year must be substituted for "Number".
+5. If a resolution is passed, its type (binding or non-binding) will be added to the end of its name in parentheses.
+6. If previously passed legistlation is repealed, its thread must be moved to "The Hall of the Repealed" sub-board and the details and date of the repealing legistlation added.
+
+Section 9 - Formatting Rules
+
+1. Proposals must contain the following elements:
+    a. whether the proposal is for a bill or a resolution,
+    b. if for a bill, the name of the Act it may be referred to as, if passed,
+    c. if for a resolution, whether it should be binding or non-binding.
+2. Bills must specify a name for the Act they should be referred to as, if passed.
+3. Resolutions may specify a short purpose clause to be added after its identification number for easy reference, if passed.
+4. All Councillors must aim to formulate all legistlation in clear and precise language.
+5. Councillors are encouraged to consult the drafting aid of the U.S. Federal Register at the following link: https://www.archives.gov/federal-register/write/legal-docs .
+6. Bills and resolutions must be structured into clauses marked by an ordinal number with Arabic numerals. Clauses may have sub-clauses marked by a small latin letter with a period after it.
+7. Clauses may be structured into sections marked by the word "Section" and a cardinal number with Arabic numerals.
+8. Sections in bills may be structures into chapters marked by the word "Chapter" and a cardinal number with Roman numerals.
+9. Sections and chapters headings may include a title after their number, separated by a dash.
